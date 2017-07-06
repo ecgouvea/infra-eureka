@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: infra-eureka
+server:
+  port: 8761
